@@ -1,0 +1,3 @@
+﻿  devoir2.cpp
+devoir2.obj : error LNK2019: symbole externe non rÚsolu "public: __thiscall POSTFIX<class std::basic_string<char,struct std::char_traits<char>,class std::allocator<char> > >::POSTFIX<class std::basic_string<char,struct std::char_traits<char>,class std::allocator<char> > >(void)" (??0?$POSTFIX@V?$basic_string@DU?$char_traits@D@std@@V?$allocator@D@2@@std@@@@QAE@XZ) rÚfÚrencÚ dans la fonction _main
+C:\Users\HansIV4\Downloads\devoir2\Debug\devoir2.exe : fatal error LNK1120: 1 externes non rÚsolus
